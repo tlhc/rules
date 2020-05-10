@@ -5810,3 +5810,5 @@
 .bugsnag.com
 .branch.io
 .godaddy.com
+.wikiwalkie.net
+.nicegram.app
