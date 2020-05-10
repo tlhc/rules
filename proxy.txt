@@ -5812,3 +5812,4 @@
 .godaddy.com
 .wikiwalkie.net
 .nicegram.app
+.gitter.im
