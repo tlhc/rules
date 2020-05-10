@@ -1,6 +1,5 @@
 #SS config file for surge with gfw list 
 #updated on 2020-05-05 15:27:16
--spotify-com
 030buy.com
 0rz.tw
 1-apple.com.tw
