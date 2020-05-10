@@ -5807,3 +5807,6 @@
 .epubee.com
 .hotmail.com
 .kapeli.com
+.bugsnag.com
+.branch.io
+.godaddy.com
