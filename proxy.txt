@@ -5824,4 +5824,5 @@
 .live.net
 .office.net
 .letsencrypt.org
+.workingcopyapp.com
 .onelink.me
