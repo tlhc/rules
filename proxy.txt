@@ -5813,3 +5813,7 @@
 .wikiwalkie.net
 .nicegram.app
 .gitter.im
+.pocketcasts.com
+.npr.org
+.tedcdn.com
+.ted.com
