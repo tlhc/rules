@@ -5804,3 +5804,6 @@
 .flurry.com
 .github.io
 .live.com
+.epubee.com
+.hotmail.com
+.kapeli.com
