@@ -5819,6 +5819,9 @@
 .ted.com
 .githubapp.com
 .microsoft.com
-
+.onenote.com
+.office.com
+.live.net
+.office.net
 
 
