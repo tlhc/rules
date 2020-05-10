@@ -5818,5 +5818,7 @@
 .tedcdn.com
 .ted.com
 .githubapp.com
+.microsoft.com
+
 
 
