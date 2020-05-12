@@ -5885,4 +5885,6 @@
 .apollopushserver.xyz
 .riffsy.com
 .giphy.com
+.quantcount.com
+.lightstep.com
 
