@@ -5887,4 +5887,6 @@
 .giphy.com
 .quantcount.com
 .lightstep.com
+.githubassets.com
+.githubusercontent.com
 
