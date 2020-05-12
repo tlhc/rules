@@ -5882,4 +5882,4 @@
 2001:67c:4e8::/48
 .gfycat.com
 .omnigroup.com
-
+.apollopushserver.xyz
