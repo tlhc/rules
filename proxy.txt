@@ -5889,4 +5889,5 @@
 .lightstep.com
 .githubassets.com
 .githubusercontent.com
-
+.greasyfork.org
+.cloudfront.net
