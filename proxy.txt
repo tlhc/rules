@@ -129,9 +129,6 @@
 .9bis.net
 .9cache.com
 .9gag.com
-.PROCESS-NAME,LookupViewService
-.PROCESS-NAME,OneDrive
-.PROCESS-NAME,OneDriveUpdater
 .a-normal-day.com
 .a248.e.akamai.net
 .a5.com.ru
