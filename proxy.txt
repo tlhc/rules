@@ -5891,3 +5891,4 @@
 115.223.23.67/32
 .appso.com
 .googleapis.com
+.packix.com
