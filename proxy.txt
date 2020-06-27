@@ -304,8 +304,6 @@
 .api-glb-sea.smoot.apple.com
 .api-secure.recaptcha.net
 .api-verify.recaptcha.net
-.api.ai
-.api.bilibili.com
 .api.dropboxapi.com
 .api.linksalpha.com
 .api.proxlet.com
