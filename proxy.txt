@@ -5891,3 +5891,4 @@ api.viu.now.com
 .googleapis.com
 .packix.com
 .dropboxapi.com
+.lastpass.com
