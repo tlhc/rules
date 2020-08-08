@@ -504,4 +504,3 @@
 61.174.50.214/32
 .jddebug.com
 .analytics.twitter.com
-.pstatp.com
