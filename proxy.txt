@@ -5799,7 +5799,6 @@ api.viu.now.com
 .flurry.com
 .github.io
 .live.com
-.epubee.com
 .hotmail.com
 .kapeli.com
 .bugsnag.com
@@ -5824,7 +5823,6 @@ api.viu.now.com
 .onelink.me
 .apollogur.download
 .in.appcenter.ms
-
 .t.me
 .tdesktop.com
 .telegra.ph
