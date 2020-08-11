@@ -1,4 +1,5 @@
 .tmall.com
+.cn
 .qq.com
 .baidu.com
 .sohu.com
